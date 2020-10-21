@@ -1,8 +1,6 @@
 # Projeto Webservice Dotz
 Desafio WebService - Dotz
 
-Desafio API
-
 Ambiente no Windows:
 
 Obs.: Para ter uma melhor utilização de console, recomento a utilização do CMDER (https://cmder.net/ - Download full). Caso opte pela utilização do mesmo deverá criar uma pasta no disco principal do sistema, (ex: tools) e adicionar está pasta ao path do sistema Quando colocar no path inserir a variável de ambiente “C:\tools\cmder\vendor\git-for-windows\bin” e “C:\tools\cmder\vendor\git-for-windows\usr\bin”
