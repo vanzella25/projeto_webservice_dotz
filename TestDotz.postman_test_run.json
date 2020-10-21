@@ -1,0 +1,135 @@
+{
+	"id": "6c684555-305e-46b6-a7e8-71cc30dc2379",
+	"name": "TestDotz",
+	"timestamp": "2020-10-20T23:57:19.223Z",
+	"collection_id": "c324a208-2f3f-4ab9-97d6-e7bbbf18758b",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "7039c741-241b-41d6-94ce-f09bd66fcb0b",
+			"name": "ListarFilmes",
+			"time": 510,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				947,
+				568,
+				487,
+				481,
+				528,
+				692,
+				748,
+				614,
+				485,
+				510
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "2871b684-3d72-4edb-9453-8836b022ca04",
+			"name": "ListarPlanetas",
+			"time": 358,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				234,
+				230,
+				254,
+				238,
+				243,
+				322,
+				257,
+				249,
+				238,
+				358
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "df360eed-90bb-4149-b1c9-ddc5c54aba87",
+			"name": "ListarPlanetaNaoExistente",
+			"time": 208,
+			"responseCode": {
+				"code": 404,
+				"name": "NOT FOUND"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				208,
+				208,
+				209,
+				217,
+				215,
+				208,
+				209,
+				208,
+				210,
+				208
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 10,
+	"totalTime": 10783,
+	"collection": {
+		"requests": [
+			{
+				"id": "7039c741-241b-41d6-94ce-f09bd66fcb0b",
+				"method": "GET"
+			},
+			{
+				"id": "2871b684-3d72-4edb-9453-8836b022ca04",
+				"method": "GET"
+			},
+			{
+				"id": "df360eed-90bb-4149-b1c9-ddc5c54aba87",
+				"method": "GET"
+			}
+		]
+	}
+}
