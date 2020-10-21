@@ -1,4 +1,4 @@
-# Projeto Webservice Dotz
+# Projeto WebService Dotz
 Desafio WebService - Dotz
 
 Ambiente no Windows:
